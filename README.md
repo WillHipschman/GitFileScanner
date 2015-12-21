@@ -1,3 +1,7 @@
+# PoolBoy
+[![Build Status](https://travis-ci.org/WillHipschman/PoolBoy.png)](https://travis-ci.org/WillHipschman/PoolBoy)
+
+
 # About
 PoolBoy cleans leaves, gunk, and weird stuff out of your pool. It keeps it clean and tidy and attracts the neighbors.
 
