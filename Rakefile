@@ -1,5 +1,3 @@
-task default: %w[test]
-
-task :test do
-    puts "Test Passed!"
+task :default do
+    puts "Build Passed."
 end
