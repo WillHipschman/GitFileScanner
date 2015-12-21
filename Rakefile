@@ -1,4 +1,2 @@
-task default: %w[test]
-
-task :test do
+task default: %w[test] do
 end
