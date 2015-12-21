@@ -1,3 +1,3 @@
-task default: %w[test] do
+ask default: %w[test]
 task :test do
 end
